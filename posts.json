@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Top 10 JavaScript Tips",
+    "content": "Learn the best JavaScript tips and tricks to improve your coding skills.",
+    "author": "Alice",
+    "category": "Tech",
+    "date": "2025-09-24",
+    "media": "tech_blog.jpg",
+    "mediaType": "image"
+  },
+  {
+    "title": "5 Must-Visit Places in Europe",
+    "content": "A guide to the most beautiful destinations in Europe for your next trip.",
+    "author": "Bob",
+    "category": "Travel",
+    "date": "2025-09-20",
+    "media": "travel_blog.jpg",
+    "mediaType": "image"
+  },
+  {
+    "title": "Healthy Smoothie Recipes",
+    "content": "Delicious and nutritious smoothie recipes to keep you energized.",
+    "author": "Carol",
+    "category": "Food",
+    "date": "2025-09-22",
+    "media": "food_blog.jpg",
+    "mediaType": "image"
+  },
+  {
+    "title": "Lifestyle Hacks for Busy People",
+    "content": "Easy lifestyle hacks to save time and stay productive.",
+    "author": "Dave",
+    "category": "Lifestyle",
+    "date": "2025-09-21",
+    "media": "lifestyle_blog.jpg",
+    "mediaType": "image"
+  },
+  {
+    "title": "How to Study Efficiently",
+    "content": "Proven strategies to improve your learning and retention.",
+    "author": "Eve",
+    "category": "Education",
+    "date": "2025-09-23",
+    "media": "education_default.jpg",
+    "mediaType": "image"
+  }
+]
